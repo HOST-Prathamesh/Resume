@@ -1,0 +1,20 @@
+/* h2,p{
+    text-align: center;
+} */
+
+h2{
+    color: rgb(45, 43, 201);
+    font-family: cursive;
+}
+h1{
+    color: green;
+    margin: 30px;
+    font-family: cursive;
+}
+body{
+    margin: 45px;
+    
+}
+img{
+    border-radius: 30px;
+}
